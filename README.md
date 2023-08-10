@@ -1,2 +1,2 @@
-# SmikeHub
-full stack website for my coding questions and answers 💵
+# Leet Repo
+full stack website for coding questions, answers, and studying
