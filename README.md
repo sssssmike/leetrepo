@@ -1,3 +1,14 @@
+## LeetRepo
+
+A full stack application to help students and professionals study and store their algorithm practice questions!
+
+See issues to pick up tasts to complete.
+
+Authors:
+- sssssmike
+- schmerble
+- hyenaaaa 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
